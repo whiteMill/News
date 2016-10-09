@@ -65,5 +65,9 @@
         <item name="android:layout_height">1.0dip</item>
         <item name="android:layout_weight">1.0</item>
     </style>
+    <style name="item_abstract">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">@color/item_abstract</item>
+    </style>
 
 </resources>
