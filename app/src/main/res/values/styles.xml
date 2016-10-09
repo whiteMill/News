@@ -54,5 +54,16 @@
         <item name="android:textColor">@color/item_local</item>
         <item name="android:background">@drawable/list_item_local_bg</item>
     </style>
+    <style name="item_image">
+        <item name="android:background">@drawable/small_image_holder_listpage</item>
+        <item name="android:layout_width">@dimen/item_image_width</item>
+        <item name="android:layout_height">@dimen/item_image_height</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+    <style name="item_image_gap">
+        <item name="android:layout_width">15.0dip</item>
+        <item name="android:layout_height">1.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
 
 </resources>

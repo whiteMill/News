@@ -5,4 +5,6 @@
     <dimen name="list_item_horizontal_padding">15dp</dimen>
     <dimen name="right_image_width">86.0dip</dimen>
     <dimen name="right_image_height">60.0dip</dimen>
+    <dimen name="item_image_width">86.0dip</dimen>
+    <dimen name="item_image_height">60.0dip</dimen>
 </resources>
